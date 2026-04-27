@@ -1,0 +1,5 @@
+# CODEOWNERS — Hospital / Clinic Management System
+# These owners will be requested for review on PRs
+
+* @hermosoryan
+docs/ @hermosoryan

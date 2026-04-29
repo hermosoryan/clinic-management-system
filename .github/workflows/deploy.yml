@@ -43,3 +43,8 @@ jobs:
           echo "Running smoke test..."
           curl -s -o /dev/null -w "%{http_code}" https://hermosoryan.github.io/clinic-management-system/ | grep 200
           echo "Smoke test passed! Homepage returns 200"
+
+          - name: Use Secret
+        env:
+          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+        run: echo "Using deploy token securely"

@@ -5,7 +5,7 @@
 
 ## 🎤 INTRODUCTION (30 seconds)
 
-"Good day everyone! We are Team 1 from the Software
+"Good day everyone! We are Team  from the Software
 Implementation and Management course 2025-2026.
 
 Our team members are:
@@ -104,7 +104,7 @@ Show docs/cicd-diagram.md for the visual diagram.
 "Our system is live and accessible to anyone."
 
 Show live site:
-- https://hermosoryan.github.io/clinic-management-system/
+- https://hermosoryan.github.io/clinic-management-system
 
 "Deployment details:"
 - Platform: GitHub Pages (FREE)

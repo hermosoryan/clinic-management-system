@@ -10,3 +10,7 @@
 | R-06 | Scope creep causing delays in sprint delivery | 4 | 3 | 12 | Strictly follow sprint backlog and review changes with Product Owner | Ryan Hermoso |
 | R-07 | Poor UI/UX leading to low user adoption | 3 | 3 | 9 | Conduct user testing after each sprint and gather feedback | Trisha Aira Pabonita |
 | R-08 | Integration failure between frontend and backend | 3 | 4 | 12 | Define clear API contracts and test integrations early | Mitch Dumdum |
+
+| R-09 | SQL Injection attack on patient database | 3 | 5 | 15 | Use parameterized queries and ORM | Emanuel Bajarla |
+| R-10 | Unauthorized access to patient records | 3 | 5 | 15 | Implement role-based access control | Emanuel Bajarla |
+| R-11 | Cross-site scripting (XSS) attack on forms | 3 | 4 | 12 | Sanitize all user inputs on frontend | Trisha Aira Pabonita |

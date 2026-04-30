@@ -5,10 +5,19 @@
 
 ## 🎤 INTRODUCTION (30 seconds)
 
-"Good day! I am Ryan Hermoso, Product Owner of Team 1.
-Today I will demo our Hospital and Clinic Management System
-built over 14 weeks using Agile, DevOps, and Software
-Engineering best practices.
+"Good day everyone! We are Team 1 from the Software
+Implementation and Management course 2025-2026.
+
+Our team members are:
+- Ryan Hermoso — Product Owner
+- Sofia Belle Villarente — Scrum Master
+- Emanuel Bajarla — Backend Developer
+- Trisha Aira Pabonita — Frontend Developer
+- Mitch Dumdum — QA Engineer / Full-Stack Support
+
+Today, I am Ryan Hermoso, and I will be presenting our
+Hospital and Clinic Management System built over 14 weeks
+using Agile, DevOps, and Software Engineering best practices.
 Let me walk you through our journey from problem to solution."
 
 ---
@@ -47,12 +56,15 @@ Show GitHub repository:
 - Digital billing and records
 - Role-based access for all staff
 
-"Our team:"
-- Ryan Hermoso — Product Owner
-- Sofia Belle Villarente — Scrum Master
-- Emanuel Bajarla — Backend Developer
-- Trisha Aira Pabonita — Frontend Developer
-- Mitch Dumdum — QA Engineer
+"Our team and their contributions:"
+
+| Name | Role | Contribution |
+|------|------|-------------|
+| Ryan Hermoso | Product Owner | Defines vision, manages backlog, approves features |
+| Sofia Belle Villarente | Scrum Master | Facilitates sprints, removes blockers, tracks progress |
+| Emanuel Bajarla | Backend Developer | API design, database, authentication, security |
+| Trisha Aira Pabonita | Frontend Developer | UI forms, responsive design, API integration |
+| Mitch Dumdum | QA Engineer | Unit tests, bug tracking, quality assurance |
 
 ---
 
@@ -92,7 +104,7 @@ Show docs/cicd-diagram.md for the visual diagram.
 "Our system is live and accessible to anyone."
 
 Show live site:
-- https://hermosoryan.github.io/clinic-management-system
+- https://hermosoryan.github.io/clinic-management-system/
 
 "Deployment details:"
 - Platform: GitHub Pages (FREE)
@@ -171,12 +183,20 @@ Hospital/Clinic Management System that:
 ✅ Has a positive ROI of 52.75%
 ✅ Follows security best practices
 
+Our team:
+- Ryan Hermoso — Product Owner
+- Sofia Belle Villarente — Scrum Master
+- Emanuel Bajarla — Backend Developer
+- Trisha Aira Pabonita — Frontend Developer
+- Mitch Dumdum — QA Engineer
+
 Thank you for listening!
-I am happy to answer any questions."
+We are happy to answer any questions."
 
 ---
 
 ## 📋 Demo Checklist
+- [ ] Introduce team members and roles
 - [ ] Open GitHub repository
 - [ ] Show docs folder with all files
 - [ ] Show GitHub Actions pipeline running
